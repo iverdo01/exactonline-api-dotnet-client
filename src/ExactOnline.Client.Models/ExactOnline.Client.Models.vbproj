@@ -103,6 +103,7 @@
     <Compile Include="PurchaseOrder.vb" />
     <Compile Include="Sales.vb" />
     <Compile Include="SalesEntry.vb" />
+    <Compile Include="PurchaseInvoice.vb" />
     <Compile Include="SalesInvoice.vb" />
     <Compile Include="SalesOrder.vb" />
     <Compile Include="Services.vb" />
